@@ -22,7 +22,7 @@ def testMain():
     posRobot4[4] = posRobot4[4] -0.01
     posRobot4[5] = posRobot4[5] -0.01
     robot4.moveL(posRobot4)
-    
+    dfrg
     
     
 
